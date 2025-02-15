@@ -1,0 +1,2 @@
+# GARCH
+GARCH Model for BTC-USD
